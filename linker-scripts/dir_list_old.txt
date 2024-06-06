@@ -1,0 +1,2 @@
+/home/sai/Shakti-TEE-Practical/mirage-shakti/ocaml-boot-riscv/compartment_allocations/strategy_1
+/home/sai/Shakti-TEE-Practical/mirage-shakti/linker_cap_files/gmp_reverse_engineering
